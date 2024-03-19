@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "01. One-To-One Relationship", "01. One-To-One Relationship\01. One-To-One Relationship.ssmssqlproj", "{A6A9B326-D14C-427D-987E-C0397CBD6129}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "02. One-To-Many Relationship", "02. One-To-Many Relationship\02. One-To-Many Relationship.ssmssqlproj", "{CFAD46CB-9E0D-4EBF-A710-E3C2A3BE8A4F}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "03. Many-To-Many Relationship", "03. Many-To-Many Relationship\03. Many-To-Many Relationship.ssmssqlproj", "{AA3F08B7-A3DE-42A7-8D1E-0FDD1F8EEC5F}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "04. Self-Referencing", "04. Self-Referencing\04. Self-Referencing.ssmssqlproj", "{90ADE6F2-D96B-48B3-843E-C2ACB55ACC61}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "05. OnlineStoreDatabase", "05. OnlineStoreDatabase\05. OnlineStoreDatabase.ssmssqlproj", "{92E61797-01EE-4E23-B845-7DB8BB0309B2}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "06. UniversityDatabase", "06. UniversityDatabase\06. UniversityDatabase.ssmssqlproj", "{317391E4-0380-443D-B227-B3828587E3C9}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "9. Peaks in Rila", "9. Peaks in Rila\9. Peaks in Rila.ssmssqlproj", "{0EB8E581-A562-4224-B2C6-209E5598AC4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6A9B326-D14C-427D-987E-C0397CBD6129}.Default|Default.ActiveCfg = Default
+		{CFAD46CB-9E0D-4EBF-A710-E3C2A3BE8A4F}.Default|Default.ActiveCfg = Default
+		{AA3F08B7-A3DE-42A7-8D1E-0FDD1F8EEC5F}.Default|Default.ActiveCfg = Default
+		{90ADE6F2-D96B-48B3-843E-C2ACB55ACC61}.Default|Default.ActiveCfg = Default
+		{92E61797-01EE-4E23-B845-7DB8BB0309B2}.Default|Default.ActiveCfg = Default
+		{D0AF7744-F0A1-4C5F-8125-2BA4AD35A214}.Default|Default.ActiveCfg = Default
+		{317391E4-0380-443D-B227-B3828587E3C9}.Default|Default.ActiveCfg = Default
+		{0EB8E581-A562-4224-B2C6-209E5598AC4F}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA34B95E-BF78-4974-A39B-C060A366D7DB}
+	EndGlobalSection
+EndGlobal
