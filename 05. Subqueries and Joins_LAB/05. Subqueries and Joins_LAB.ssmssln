@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "01. Addresses with Towns", "01. Addresses with Towns\01. Addresses with Towns.ssmssqlproj", "{4C4AF4D5-7427-4CC8-85B3-4F392E5893F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78D7CF20-0ABD-4D50-9496-0960D995CC4E}.Default|Default.ActiveCfg = Default
+		{4C4AF4D5-7427-4CC8-85B3-4F392E5893F1}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBDA0B55-D506-4566-A32D-248C6DFC6CB6}
+	EndGlobalSection
+EndGlobal
