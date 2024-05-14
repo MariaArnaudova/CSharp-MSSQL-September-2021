@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "01.EmployeesWithSalaryAbove 35000", "..\05.Exercise Subqueries and JOINs\01.EmployeesWithSalaryAbove 35000\01.EmployeesWithSalaryAbove 35000.ssmssqlproj", "{EC54829C-DA96-4BAB-8DCB-61EAFFBDFC3A}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "02. EmployeesWithSalaryAboveNumber", "02. EmployeesWithSalaryAboveNumber\02. EmployeesWithSalaryAboveNumber.ssmssqlproj", "{3F84AE8D-8C92-4AB9-9409-318A35877EEB}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "03. TownNamesStartingWith", "03. TownNamesStartingWith\03. TownNamesStartingWith.ssmssqlproj", "{013C700A-3379-4492-9F5B-C7FBBCDC23A6}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "04. Employees from Town", "04. Employees from Town\04. Employees from Town.ssmssqlproj", "{F519BA9F-C60A-4511-A379-384DEB2A57F3}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "05. Salary Level Function", "05. Salary Level Function\05. Salary Level Function.ssmssqlproj", "{6EDA018E-2C2C-4D7C-8829-C12A3EEE9E4D}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "06. Employees by Salary Level", "06. Employees by Salary Level\06. Employees by Salary Level.ssmssqlproj", "{0504A805-4632-487B-997F-C2E067E7D420}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "07. Define Function", "07. Define Function\07. Define Function.ssmssqlproj", "{B7CD9392-2C00-4630-A94A-C6159A9FBC93}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "8. Delete Employees and Departments", "8. Delete Employees and Departments\8. Delete Employees and Departments.ssmssqlproj", "{062A057E-B2A1-4D67-846A-EB09A75FC170}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "09. Find Full Name", "09. Find Full Name\09. Find Full Name.ssmssqlproj", "{9124D757-2AD6-40C8-BC4D-EA69D8740ACA}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "10. People with Balance Higher Than", "10. People with Balance Higher Than\10. People with Balance Higher Than.ssmssqlproj", "{6201202B-0C0C-445D-B0A0-69D945ECE7E7}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "11. Future Value Function", "11. Future Value Function\11. Future Value Function.ssmssqlproj", "{992B3F4F-5F76-44BA-BE05-BFB5DA98C053}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "12. Calculating Interest", "12. Calculating Interest\12. Calculating Interest.ssmssqlproj", "{0D9B43C1-1181-4973-89FE-3A044EFE5CDF}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "13.ScalarFuncCashInUserGamesOddRows", "13.ScalarFuncCashInUserGamesOddRows\13.ScalarFuncCashInUserGamesOddRows.ssmssqlproj", "{B110B963-79FA-49B8-8A68-A6D5E4678269}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC54829C-DA96-4BAB-8DCB-61EAFFBDFC3A}.Default|Default.ActiveCfg = Default
+		{3F84AE8D-8C92-4AB9-9409-318A35877EEB}.Default|Default.ActiveCfg = Default
+		{013C700A-3379-4492-9F5B-C7FBBCDC23A6}.Default|Default.ActiveCfg = Default
+		{F519BA9F-C60A-4511-A379-384DEB2A57F3}.Default|Default.ActiveCfg = Default
+		{6EDA018E-2C2C-4D7C-8829-C12A3EEE9E4D}.Default|Default.ActiveCfg = Default
+		{0504A805-4632-487B-997F-C2E067E7D420}.Default|Default.ActiveCfg = Default
+		{B7CD9392-2C00-4630-A94A-C6159A9FBC93}.Default|Default.ActiveCfg = Default
+		{062A057E-B2A1-4D67-846A-EB09A75FC170}.Default|Default.ActiveCfg = Default
+		{EC097F20-8A3F-4DD8-B2BB-9D14CAC55C49}.Default|Default.ActiveCfg = Default
+		{9124D757-2AD6-40C8-BC4D-EA69D8740ACA}.Default|Default.ActiveCfg = Default
+		{6201202B-0C0C-445D-B0A0-69D945ECE7E7}.Default|Default.ActiveCfg = Default
+		{992B3F4F-5F76-44BA-BE05-BFB5DA98C053}.Default|Default.ActiveCfg = Default
+		{0D9B43C1-1181-4973-89FE-3A044EFE5CDF}.Default|Default.ActiveCfg = Default
+		{B110B963-79FA-49B8-8A68-A6D5E4678269}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7AFA5F7-C572-4A83-A073-2A5D37B0D9E4}
+	EndGlobalSection
+EndGlobal
